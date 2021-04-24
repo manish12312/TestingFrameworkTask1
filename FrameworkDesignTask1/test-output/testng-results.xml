@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16928" started-at="2021-04-24T10:21:27Z" finished-at="2021-04-24T10:21:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16928" started-at="2021-04-24T10:21:27Z" finished-at="2021-04-24T10:21:44Z">
+      <class name="com.cjc.mt.test.RegisterTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="beforesuite" is-config="true" duration-ms="15" started-at="2021-04-24T15:51:27Z" finished-at="2021-04-24T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="beforetest" is-config="true" duration-ms="0" started-at="2021-04-24T15:51:27Z" finished-at="2021-04-24T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-04-24T15:51:27Z" finished-at="2021-04-24T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="verifyregister()[pri:1, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="verifyregister" duration-ms="13530" started-at="2021-04-24T15:51:27Z" finished-at="2021-04-24T15:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregister -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-04-24T15:51:27Z" finished-at="2021-04-24T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-04-24T15:51:40Z" finished-at="2021-04-24T15:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-04-24T15:51:40Z" finished-at="2021-04-24T15:51:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifylogin()[pri:2, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="verifylogin" duration-ms="3348" started-at="2021-04-24T15:51:40Z" finished-at="2021-04-24T15:51:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-04-24T15:51:44Z" finished-at="2021-04-24T15:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-04-24T15:51:44Z" finished-at="2021-04-24T15:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-04-24T15:51:44Z" finished-at="2021-04-24T15:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.cjc.mt.test.RegisterTest@3632be31]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-04-24T15:51:44Z" finished-at="2021-04-24T15:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.cjc.mt.test.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
